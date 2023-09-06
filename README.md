@@ -7,7 +7,7 @@ Some of the drone platforms built are as follows
 
 Some of the demo video are as follows
 
-![image](https://github.com/ChaochenXU/Prometheus-test/assets/143934413/ae6353b9-d3eb-432b-ba70-b4e0d86eaf4d)
+https://github.com/ChaochenXU/Prometheus-test/assets/143934413/c214f18e-9d7b-4dd8-857a-80ff72c906b4
 
 https://github.com/ChaochenXU/Prometheus-test/assets/143934413/7e69f9d1-6d6a-4c46-be6a-2098299924df
 
